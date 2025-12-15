@@ -7,13 +7,13 @@ title: 舰艏上浪的小站
 subtitle:
 description: "舰艏上浪的个人博客"
 keywords:
-author: Angaiing
+author: EchoCyan
 language: zh-CN
 timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://angaiing.top
+url: https://www.echocyan.top
 permalink: post/:abbrlink.html
 abbrlink:
   alg: crc32 # 算法：crc16(default) or crc32
@@ -108,7 +108,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Angaiing/angaiing.github.io.git
+  repository: https://github.com/echocyan/echocyan.github.io.git
   branch: main
 
 # Markdown-it config

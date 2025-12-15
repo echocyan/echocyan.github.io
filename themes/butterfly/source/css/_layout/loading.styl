@@ -93,3 +93,5 @@ if hexo-config('preloader.enable') && hexo-config('preloader.source') == 1
 
     100%
       transform: rotate(-315deg)
+else if hexo-config('preloader.enable') && hexo-config('preloader.source') == 3
+  @import '../_load_style/wizard.styl'

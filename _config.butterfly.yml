@@ -302,7 +302,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/Angaiing
+      link: https://github.com/echocyan
   card_announcement:
     enable: true
     content: 美妙人生的关键在于你能迷上什么东西
@@ -633,7 +633,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.angaiing.top/
+  envId: https://twikoo.echocyan.top/
   region:
   # Use Twikoo visitor count as the page view count
   visitor: false
@@ -809,7 +809,8 @@ preloader:
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
-  source: 6
+  # 3. wizard (custom)
+  source: 1
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
   load_image: # url for source: 7
